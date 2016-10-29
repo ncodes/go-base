@@ -1,0 +1,21 @@
+package: github.com/ncodes/base
+import:
+- package: github.com/ellcrys/util
+- package: github.com/garyburd/redigo
+  subpackages:
+  - redis
+- package: github.com/jinzhu/gorm
+  subpackages:
+  - dialects/postgres
+- package: github.com/labstack/echo
+  subpackages:
+  - engine
+  - engine/standard
+  - middleware
+- package: golang.org/x/oauth2
+  subpackages:
+  - google
+- package: google.golang.org/api
+  subpackages:
+  - vision/v1
+- package: gopkg.in/mgo.v2

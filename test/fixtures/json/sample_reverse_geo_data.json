@@ -1,0 +1,161 @@
+{
+  "Results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Adeyeye Street",
+          "short_name": "Adeyeye St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kosofe",
+          "short_name": "Kosofe",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Lagos",
+          "short_name": "Lagos",
+          "types": [
+            "colloquial_area",
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lagos",
+          "short_name": "Lagos",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nigeria",
+          "short_name": "NG",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Adeyeye St, Lagos, Nigeria"
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mile 12",
+          "short_name": "Mile 12",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kosofe",
+          "short_name": "Kosofe",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Lagos",
+          "short_name": "Lagos",
+          "types": [
+            "colloquial_area",
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lagos",
+          "short_name": "Lagos",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nigeria",
+          "short_name": "NG",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mile 12, Lagos, Nigeria"
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lagos",
+          "short_name": "Lagos",
+          "types": [
+            "colloquial_area",
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lagos",
+          "short_name": "Lagos",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nigeria",
+          "short_name": "NG",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lagos, Nigeria"
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lagos",
+          "short_name": "Lagos",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nigeria",
+          "short_name": "NG",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lagos, Nigeria"
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nigeria",
+          "short_name": "NG",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nigeria"
+    }
+  ]
+}
